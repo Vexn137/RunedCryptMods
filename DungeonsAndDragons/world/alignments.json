@@ -1,13 +1,13 @@
 {
     "alignments": [
-        { "id": "lawful_good", "name": "Lawful Good" },
-        { "id": "lawful_neutral", "name": "Lawful Neutral" },
-        { "id": "lawful_evil", "name": "Lawful Evil" },
-        { "id": "neutral_good", "name": "Neutral Good" },
-        { "id": "neutral", "name": "Neutral" },
-        { "id": "neutral_evil", "name": "Neutral Evil" },
-        { "id": "chaotic_good", "name": "Chaotic Good" },
-        { "id": "chaotic_neutral", "name": "Chaotic Neutral" },
-        { "id": "chaotic_evil", "name": "Chaotic Evil" }
+        { "id": "lawful_good", "name": "Lawful Good", "description": "A Lawful Good character believes in order and righteousness. They follow laws and traditions, striving to do what is right for others. Think of a noble paladin who defends the innocent and obeys a strict code of ethics." },
+        { "id": "lawful_neutral", "name": "Lawful Neutral", "description": "Lawful Neutral characters respect tradition, structure, and the rule of law. They are loyal to the system, whether it is good or bad. A stern magistrate who upholds the law without bias exemplifies this alignment." },
+        { "id": "lawful_evil", "name": "Lawful Evil", "description": "Lawful Evil characters use laws and structure to pursue their own ambitions. They are disciplined and strategic, but their goals often involve control, oppression, or personal gain. Think of a tyrannical ruler who exploits the law to stay in power." },
+        { "id": "neutral_good", "name": "Neutral Good", "description": "Neutral Good characters value kindness and fairness but don't rigidly follow laws or rebel against them. They help others because it’s the right thing to do, regardless of the system. Imagine a healer who aids anyone in need, no matter the politics." },
+        { "id": "neutral", "name": "Neutral", "description": "True Neutral characters avoid extremes. They value balance in all things and may act to preserve equilibrium in the world. A druid who intervenes only to prevent one force from dominating the other is a classic example." },
+        { "id": "neutral_evil", "name": "Neutral Evil", "description": "Neutral Evil characters are selfish and ruthless. They do whatever benefits them most, with no loyalty to law or chaos. A backstabbing assassin who serves whoever pays most fits this mold." },
+        { "id": "chaotic_good", "name": "Chaotic Good", "description": "Chaotic Good individuals follow their conscience. They fight for justice and liberty but reject authority and rules they see as oppressive. Think of a freedom fighter who breaks unjust laws to save the innocent." },
+        { "id": "chaotic_neutral", "name": "Chaotic Neutral", "description": "Chaotic Neutral characters value personal freedom above all. They are unpredictable and driven by whim, not malice or virtue. Picture a mischievous rogue who acts on impulse and shuns rules." },
+        { "id": "chaotic_evil", "name": "Chaotic Evil", "description": "Chaotic Evil characters are driven by cruelty, bloodlust, or madness. They hate rules and seek only to destroy, dominate, or cause suffering. Imagine a demon who thrives on anarchy and pain." }
     ]
 }

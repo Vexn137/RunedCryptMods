@@ -1,8 +1,44 @@
 {
     "backgrounds": [
         {
-            "id": "human",
-            "name": "Human"
+            "id": "acolyte",
+            "name": "Acolyte",
+            "description": ""
+        },
+        {
+            "id": "athlete",
+            "name": "Athlete",
+            "description": ""
+        },
+        {
+            "id": "charlatan",
+            "name": "Charlatan",
+            "description": ""
+        },
+        {
+            "id": "criminal",
+            "name": "Criminal",
+            "description": ""
+        },
+        {
+            "id": "far_traveler",
+            "name": "Far Traveler",
+            "description": ""
+        },
+        {
+            "id": "hermit",
+            "name": "Hermit",
+            "description": ""
+        },
+        {
+            "id": "knight",
+            "name": "Knight",
+            "description": ""
+        },
+        {
+            "id": "noble",
+            "name": "Noble",
+            "description": ""
         }
     ]
 }
