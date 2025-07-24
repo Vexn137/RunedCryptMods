@@ -1,0 +1,12 @@
+{
+    "races": [
+        {
+            "id": "human",
+            "name": "Human"
+        },
+        {
+            "id": "elf",
+            "name": "Elf"
+        }
+    ]
+}

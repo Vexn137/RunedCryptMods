@@ -1,0 +1,12 @@
+{
+    "classes": [
+        {
+            "id": "warrior",
+            "name": "Warrior"
+        },
+        {
+            "id": "wizard",
+            "name": "Wizard"
+        }
+    ]
+}
