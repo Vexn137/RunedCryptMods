@@ -1,0 +1,34 @@
+{
+    "reliquary": {
+        "id": "reliquary",
+        "name": "Reliquary",
+        "filters": {
+            "type": ["weapon", "armor", "trinket"],
+            "rarity": ["common", "rare", "legendary"]
+        },
+        "contents": [
+            {
+                "id": "wand_of_wonders",
+                "name": "Wand of Wonders",
+                "type": "weapon",
+                "rarity": "legendary",
+                "description": "A chaotic wand capable of unpredictable magic.",
+                "stats": {
+                    "charges": 7,
+                    "effect": "Random spell"
+                }
+            },
+            {
+                "id": "cloak_of_shadows",
+                "name": "Cloak of Shadows",
+                "type": "armor",
+                "rarity": "rare",
+                "description": "Lets you become invisible in dim light.",
+                "stats": {
+                    "stealthBonus": "+3",
+                    "duration": "10 minutes"
+                }
+            }
+        ]
+    }
+}

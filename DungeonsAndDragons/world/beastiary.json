@@ -1,0 +1,24 @@
+{
+    "bestiary": {
+        "id": "bestiary",
+        "name": "Bestiary",
+        "filters": {
+            "type": ["beast", "undead", "monstruosity", "humanoid", "giant", "swarm", "elemental", "infernal", "construct", "celestial", "aberration"],
+            "region": ["forest", "dungeon", "mountain"]
+        },
+        "contents": [
+            {
+                "id": "dire_wolf",
+                "name": "Dire Wolf",
+                "type": "beast",
+                "region": "forest",
+                "stats": {
+                    "hp": 37,
+                    "ac": 14,
+                    "cr": 1
+                },
+                "description": "A massive wolf that hunts in packs."
+            }
+        ]
+    }
+}

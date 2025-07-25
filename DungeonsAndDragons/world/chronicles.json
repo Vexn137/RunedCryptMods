@@ -1,0 +1,37 @@
+{
+    "chronicles": {
+        "id": "grimoire",
+        "name": "chronicles",
+        "renderType": "text",
+        "filters": {
+            "region": ["Northreach", "All", "Ashfen"],
+            "category": ["Event", "History", "Politics"]
+        },
+        "contents": [
+            {
+                "id": "lore1",
+                "name": "Founding of the Kingdom",
+                "year": 102,
+                "region": "Northreach",
+                "category": "History",
+                "text": "The kingdom of Northreach was founded after the unification wars..."
+            },
+            {
+                "id": "lore2",
+                "name": "The Cataclysm",
+                "year": 245,
+                "region": "All",
+                "category": "Event",
+                "text": "A massive magical event reshaped the lands and broke the old alliances..."
+            },
+            {
+                "id": "lore3",
+                "name": "Treaty of Ashfen",
+                "year": 310,
+                "region": "Ashfen",
+                "category": "Politics",
+                "text": "A peace treaty signed between Ashfen and neighboring territories..."
+            }
+        ]
+    }
+}
